@@ -1,1 +1,2 @@
-# Grafik-in-PYGAME
+# Grafik in PYGAME 
+1) Загрузить Pygame
